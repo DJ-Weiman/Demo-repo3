@@ -6,4 +6,7 @@ More lines
 
 ##Local development.
 
-This is another change that was made to show the functionality of the feature branch.
+This is another change that was made to
+show the functionality of the feature branch.
+
+We are now adding more lines
